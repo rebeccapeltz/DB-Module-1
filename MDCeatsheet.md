@@ -6,9 +6,11 @@ in vs code: CMD-SHFT-V to preview
 - for multi-line code quotes use 3 tick marks:
 
 ```
+
 ```sql
 select * from table
 ```
+
 ```
 
 
