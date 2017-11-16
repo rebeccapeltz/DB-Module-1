@@ -8,7 +8,7 @@ Answer the following questions about your data and provide SQL queries where ask
 
 result: 
 
-```sql
+``` SQL
 
 ```
 
@@ -16,25 +16,25 @@ result:
 
 result:
 
-```sql
+``` SQL
 
 ```
 
 3.  Provide the query to list all fields and all the rows in the `members` table
 
-```sql
+``` SQL
 
 ```
 
 4.  Provide a query to list all the fields and all the rows in the `booking` table
 
-```sql
+``` SQL
 
 ```
 
 5.  Provide a query to list all the fields and all the rows in the `facilities` table
 
-```sql
+``` SQL
 
 ```
 
@@ -42,7 +42,7 @@ result:
 
 result: 
 
-```sql
+``` SQL
 
 ```
 
@@ -50,19 +50,30 @@ result:
 
 result:
 
-```sql
+``` SQL
 
 ``` 
 
 8. Do any of the members live at the same address? Show the query you used to determine this.
 
-```sql
+``` SQL
 
 ```
 
-9. Do you see any possible data errors in the members table?  If so, describe.
+9. Use a command to find out all the fields in the cd.members table.
+
+result:
+
+```
+
+``` 
+
+10. List the first 5 members to join the club. 
 
 result: 
 
+``` SQL
 
-10. Describe kind of application do you think this schema would support?
+```
+
+#### (Verbal Response) There are data errors in this data set.  Find an example of a data error and describe how you found it. SQL
